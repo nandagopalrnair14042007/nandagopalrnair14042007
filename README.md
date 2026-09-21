@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,50:1f6feb,100:0d1117&text=Nandagopal%20R%20Nair&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%C2%B7%20Applied%20Electronics%20%26%20Instrumentation&descSize=16&descAlignY=58&descColor=9da7b3" alt="Nandagopal R Nair" />
+<<img width="100%" src="./assets/profile-banner.png" alt="Nandagopal R Nair - Aspiring Software Engineer" />
 
 <a href="https://github.com/nandagopalrnair14042007">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Engineering+student+building+software+that+works;Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Machine+Learning;Looking+for+SWE+%2F+AI-ML+%2F+Full-Stack+internships" alt="Typing tagline" />
